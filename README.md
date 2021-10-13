@@ -10,7 +10,7 @@ cd svelte-template
 yarn # or npm install
 ```
 
-## Developpement
+## Development
 
 ```bash
 yarn dev
